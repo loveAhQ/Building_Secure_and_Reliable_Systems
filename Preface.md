@@ -31,7 +31,7 @@
 
 ### 关于文化的说明（A Note About Culture ）
 
-我们在本书中会推荐一些广泛的最佳实践方法，实践和采用这些方法需要一种支持这种变化的文化。我们认为，您必须在关注安全性和可靠性的技术选择的同时，解决组织的文化问题，这样您所做的任何调整都是持久和有弹性的。In our opinion, organizations that don’t embrace the importance of both security and reliability need to change—and revamping the culture of an organization in itself often demands an up-front investment.
+我们在本书中会推荐一些广泛的最佳实践方法，实践和采用这些方法需要一种支持这种变化的文化。我们认为，您必须在关注安全性和可靠性的技术选择的同时，解决组织的文化问题，这样您所做的任何调整都是持久和有弹性的。在我们看来，那些不重视安全性和可靠性的组织需要改变，而对组织文化本身的改造通常需要预先投资。（In our opinion, organizations that don’t embrace the importance of both security and reliability need to change—and revamping the culture of an organization in itself often demands an up-front investment.）
 
 我们在整本书中编织了技术最佳实践，并用数据来支持它们，但是不可能包含数据支持的文化最佳做法。虽然这本书提出了我们认为其他人可以适应或概括的方法，但每个组织都有独特的文化。我们讨论了Google如何在这种文化内工作，但这可能不直接适用于您的组织。相反，我们鼓励您从本书中的高水平推荐中提炼出属于你们自己的实际应用方式。（Instead, we encourage you to extract your own practical applications from the highlevel recommendations we’ve included in this book.）
 
