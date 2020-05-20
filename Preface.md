@@ -14,7 +14,7 @@
 
 我们想要写一本书，书的里面专注于直接把安全和可靠性集成到软件和系统的生命周期里去，突出保护系统和让系统可靠的技术和实践，并且说明这些技术是如何相互作用的。这本书的目的是为了给那些专业从事与安全和可靠性的从业者，提供有关于关于系统设计、系统实现和系统维护方面的深刻见解。
 
-我们明确承认本书建议的一些策略方法需要基础设施的支持，这些支持在你现在工作的地方可能并不存在。在可能的情况下，我们推荐适合任何规模大小的组织的方法。可是，我们认为开展一次对话很重要的，大家讨论有关于如何发展和改进现有的安全性和可靠性实践，因为我们的成员在不断成长，是技能娴熟的专业社区成员，通过讨论，我们彼此之间可以互相学习进步。我们希望其他组织也能热心地向社区分享他们的成功和紧急处理突发故障的经历。
+我们明确承认本书建议的一些策略方法需要基础设施的支持，这些支持在你现在工作的地方可能并不存在。在可能的情况下，我们推荐适合任何规模大小的组织的方法。可是，我们认为开展一次对话很重要的，大家讨论有关于如何发展和改进现有的安全性和可靠性实践，因为我们的成员在不断成长，是技能娴熟的专业社区成员，通过讨论，我们彼此之间可以互相学习进步。我们希望其他组织也能热心地向社区分享他们的成功和紧急处理突发故障的经历（war stories）。
 
 > war stories：公司出大的incident的话，一般会有个war room
 
@@ -46,6 +46,46 @@
 - 要考虑的可靠性和安全性之间的交集和（或）折衷
 
 在每一章中，主题通常会按照从最基础的开始到最复杂的。我们还用鳄鱼的图标来标记知识深度大的内容和专业科目。
+
+本书还推荐了许多在业内公认为是优秀的工具或者技术。并非每个想法都适合您特定情况的用例，所以您需要评估您项目的要求，并且设计解决方案来适应您特定的风险环境（so you should evaluate the requirements of your project and design solutions adapted to your particular risk landscape）。
+
+尽管本书想要（self-contained）尽可能的丰富，您还是可以去查阅《SRE Google运维解密》和《网站可靠性工作手册》（Google SRE的前两本书），在其中来自Google的专家们描述了他们是如何把可靠性设计成服务的基础。阅读这些书可能会让你更加深入地理解某些概念，当然，这不是先决条件。
+
+### 本书中使用的约定符号
+
+> 这里大概率不会有
+
+本书中使用以下印刷约定：
+
+*斜体*
+
+​		代表新的术语，URLs，email地址，文件名，文件扩展名
+
+`等宽`
+
+​		用于程序列表，以及在段落中引用程序元素，如变量或函数名、数据库、数据类型、环境变量、声明和关键字。
+
+等宽粗体
+
+​		Shows commands or other text that should be typed literally by the user. Also used for emphasis within program listings.
+
+等宽斜体
+
+​		Shows text that should be replaced with user-supplied values or by values deter‐ mined by context.
+
+`一只鸟`
+
+​		这个元素代表普通的一条说明。
+
+`鳄鱼`
+
+​		标志有些难以理解的知识。
+
+### 其他
+
+致谢中有各个章节的内容，周末施工。
+
+致谢、联系我们等部分就不翻了，太长。序就到这里。
 
 [^1]:1 See, for example, Dino Dai Zovi’s “Every Security Team Is a Software Team Now” talk at Black Hat USA 2019, Open Security Summit’s DevSecOps track, and Dave Shackleford’s “A DevSecOps Playbook” SANS Analyst paper.
 
